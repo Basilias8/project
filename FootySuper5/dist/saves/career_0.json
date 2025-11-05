@@ -1,0 +1,183 @@
+{
+  "player": {
+    "name": "Career 1",
+    "age": 17.04657534246574,
+    "rating": 65.36687742495567,
+    "potential": 85,
+    "position": "ST",
+    "form": 1.0,
+    "experience": 345,
+    "injury_risk": 0.1,
+    "team": "Morecambe",
+    "league": "League Two",
+    "contract_years": 2,
+    "salary": 5000,
+    "goals": 0,
+    "assists": 0,
+    "matches": 0,
+    "awards": [],
+    "achievements": [],
+    "reputation": 50,
+    "customization": {
+      "hair_style": "short",
+      "hair_color": "black",
+      "skin_tone": "light",
+      "celebration": "arms_up",
+      "warmup_outfit": "track_suit"
+    },
+    "stats_history": {
+      "rating": [
+        60,
+        60.15160133649029,
+        60.39228587490462,
+        60.609626167902455,
+        60.7297061274294,
+        60.82559015005049,
+        61.01288409698573,
+        61.35167892494702,
+        61.76430252295851,
+        61.95248666269235,
+        62.24184004543074,
+        62.6133175617097,
+        63.0981691962437,
+        63.61250410092036,
+        63.90647397893629,
+        64.40998483586783,
+        64.90557661839618,
+        65.36687742495567
+      ],
+      "goals": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "matches": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dates": [
+        "2025-01-01",
+        "2025-11-05",
+        "2025-11-05",
+        "2025-11-05",
+        "2025-11-05",
+        "2025-11-05",
+        "2025-11-05",
+        "2025-11-05",
+        "2025-11-05",
+        "2025-11-05",
+        "2025-11-05",
+        "2025-11-05",
+        "2025-11-05",
+        "2025-11-05",
+        "2025-11-05",
+        "2025-11-05",
+        "2025-11-05",
+        "2025-11-05"
+      ]
+    }
+  },
+  "season": {
+    "current_year": 2025,
+    "current_month": 4,
+    "current_day": 22,
+    "matches_played": 0,
+    "league_table": {},
+    "fixtures": []
+  },
+  "leagues": [
+    {
+      "name": "Premier League",
+      "level": 1,
+      "country": "England",
+      "promotion_spots": 0,
+      "relegation_spots": 3,
+      "teams": [
+        "Manchester City",
+        "Arsenal",
+        "Liverpool",
+        "Aston Villa",
+        "Tottenham"
+      ]
+    }
+  ],
+  "tournaments": [
+    {
+      "name": "Champions League",
+      "type": "club",
+      "level": 1,
+      "teams": [],
+      "matches": [],
+      "prize_money": 100000000
+    }
+  ],
+  "stadiums": {
+    "Etihad Stadium": {
+      "name": "Etihad Stadium",
+      "capacity": 55000,
+      "attendance": 54000,
+      "condition": 95,
+      "facilities": 98,
+      "atmosphere": 92,
+      "renovation_cost": 10000000,
+      "last_renovation": "2024-06-15"
+    }
+  },
+  "transfer_market": {
+    "players": [
+      {
+        "name": "Young Talent",
+        "age": 18,
+        "rating": 65,
+        "position": "RW",
+        "asking_price": 50000,
+        "team": "Academy FC"
+      }
+    ]
+  },
+  "achievements": [
+    {
+      "id": "first_goal",
+      "name": "First Goal",
+      "description": "Score your first goal",
+      "unlocked": false
+    },
+    {
+      "id": "top_club",
+      "name": "Top Club",
+      "description": "Join a top-5 league club",
+      "unlocked": false
+    }
+  ]
+}
